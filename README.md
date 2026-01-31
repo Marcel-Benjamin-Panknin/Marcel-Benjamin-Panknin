@@ -39,10 +39,9 @@ The website for IZY PRO and IZY Click products.
 
 ---
 
-## 🌐 Connect with Me
-- 💼 **LinkedIn:** [Marcel Benjamin Panknin](https://www.linkedin.com/in/marcel-benjamin-panknin)
-- ✖️ **X:** [@m_b_panknin](https://x.com/m_b_panknin)
+## 🎯 My Values
+- 🌱 **Continuous Growth**: Dedicated to staying at the forefront of technology and constantly refining my skills.
+- 🤝 **Collaboration**: I believe that the best solutions are built through open communication and strong teamwork.
+- 🎨 **Innovation**: Passionate about combining robust engineering with creative design to solve complex problems.
 
----
 
-✨ **Thank you for visiting my profile.** ✨
