@@ -1,55 +1,48 @@
-![KPLRS Linked-In Banner Personal](https://github.com/user-attachments/assets/92aad727-7844-4158-a0ba-56b5ee1d0c4c)
+# 👋 Hello (World), I'm Marcel Benjamin Panknin!
 
-# 👋 Hello (World), I'm Marcel Panknin!
+**💻 Full-Stack Developer | AI Integration Specialist**
 
-**💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🧠 Idea Architect**
-
-Welcome to my GitHub profile! Here, I share my passion for **modern web development**, innovative **software solutions**, and exciting **projects**.
+Welcome to my GitHub profile. I am a passionate Full-Stack Developer with a focus on modern web development, software solutions, and artificial intelligence integration.
 
 ---
 
 ## 🚀 About Me
-- 🌟 **Profession**: Full-Stack Developer with 3+ years of experience in JavaScript, Next.js, and Supabase.
-- 🌈 **Projects**: Currently working on the multi-tool platform [MySuite](#).
-- 🌍 **Interests**: Web development, artificial intelligence, UI/UX design, and languages.
+- 🌟 **Profession**: Full-Stack Developer with extensive experience in JavaScript, Next.js, and Supabase.
+- 🧠 **Focus**: Specializing in Large Language Models (LLMs), RAG systems, and Enterprise AI solutions.
+- 🌍 **Interests**: Web development, software architecture, and innovative user interfaces.
 
 ---
 
 ## 🔧 Tech Stack
 - **Frontend:** Next.js, React, TailwindCSS, TypeScript
-- **Backend:** Supabase, Node.js, Drizzle ORM
-- **Tools:** Axios, React Query, Vitest, Turborepo
+- **Backend:** Supabase, Node.js, Drizzle ORM, PostgreSQL
+- **AI & Data:** Vercel AI SDK, RAG Systems, LLM Integration (OpenAI, Anthropic, Google, Azure), Upstash Redis
+- **Tools:** TanStack Query, Zod, Vitest, Playwright, Turborepo
 
 ---
 
-## 📚 My Projects
-### 🌟 [MySuite](#)
-A comprehensive platform designed to empower employers and insurance brokers with tools for better collaboration, employee retention, and streamlined HR management. It includes modules like:
-- 💼 **MyBAV**: For managing occupational pensions.
-- 🏥 **MyGKV**: For health insurance calculations.
-- 📋 **MyTicket**: For task and claim management.
-- 🛍️ **Marketplace**: Offering employee discounts and exclusive deals.
+## 📚 Selected Projects
 
----
+### 🤖 [Corporate-LLM](https://www.corporatellm.de/)
+*Developed at Relationflow*
+A secure, GDPR-compliant Enterprise AI platform uniting major LLM providers (OpenAI, Claude, Gemini) with specialized agents and intelligent workspaces.
 
-## 🛠️ What I'm Learning
-- 📖 **Deep dive** into performance optimization for large-scale projects.
-- 💡 Exploring **creative approaches** to combining AI with UI design.
+### 💼 MyBAV & MyGKV
+*Developed at KPLRS*
+Specialized web platforms for the insurance industry: **MyBAV** for occupational pension management and **MyGKV**, an AI-powered comparison calculator for statutory health insurance.
+
+### 🏎️ [Mobility-S](https://mobility-s.de/)
+Designed and developed the corporate website for a premium car detailing service.
+
+### 💨 [IZY-VAPES](https://izyvapes.de/)
+The website for IZY PRO and IZY Click products.
 
 ---
 
 ## 🌐 Connect with Me
-- 💼 **LinkedIn:** [Marcel Panknin](https://www.linkedin.com/in/marcel-panknin-019111264/)
--  **𝕏:** [@panknin_marcel](https://x.com/panknin_marcel)
-- 📧 **Email:** [marcel.panknin@kplrs.com](mailto:marcel.panknin@kplrs.com)
+- 💼 **LinkedIn:** [Marcel Benjamin Panknin](https://www.linkedin.com/in/marcel-benjamin-panknin)
+- ✖️ **X:** [@m_b_panknin](https://x.com/m_b_panknin)
 
 ---
 
-## 🎯 My Values
-- 🌱 **Learning & Growth**: I love discovering new things and constantly improving.
-- 🤝 **Collaboration**: Strong teams create amazing things!
-- 🎨 **Creativity**: Tech and design are my canvas. 🚀
-
----
-
-✨ **Thank you for stopping by! Let’s create something awesome together.** ✨
+✨ **Thank you for visiting my profile.** ✨
